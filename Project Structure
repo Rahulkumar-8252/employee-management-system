@@ -1,0 +1,20 @@
+employee-management-system/
+│
+├── backend/  (Spring Boot)
+│   ├── src/main/java/com/example/ems/
+│   │   ├── controller/   (REST APIs)
+│   │   ├── model/        (Entity classes)
+│   │   ├── repository/   (JPA Repositories)
+│   │   ├── service/      (Business Logic)
+│   │   └── EmployeeManagementSystemApplication.java
+│   └── src/main/resources/
+│       ├── application.properties
+│
+├── frontend/  (React.js)
+│   ├── src/
+│   │   ├── components/ (UI Components)
+│   │   ├── pages/      (Home, Add Employee, Update Employee)
+│   │   └── App.js
+│   ├── package.json
+│
+└── README.md
