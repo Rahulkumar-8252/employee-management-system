@@ -1,0 +1,16 @@
+🚀 Project Title: Employee Management System
+Description:-
+A Java Full Stack Web Application that allows companies to manage employees (add, update, delete, view).
+It will include:
+Backend: Spring Boot (Java, REST API)
+Frontend: React.js (with Tailwind or Bootstrap)
+Database: MySQL
+Build Tools: Maven (backend), npm/yarn (frontend)
+Version Control: GitHub
+
+Features:-
+1.Employee Registration (name, email, role, department, salary).
+2.iew all employees in a table with search & filter.
+3.Update employee details.
+4.Delete employees.
+5.REST APIs with JSON response.
